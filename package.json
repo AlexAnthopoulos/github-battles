@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve"
   },
   "babel": {
     "presets": [
       "@babel/preset-env",
-      "2babel/preset-react"
+      "@babel/preset-react"
     ]
   },
   "keywords": [],
