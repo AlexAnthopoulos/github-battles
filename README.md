@@ -8,13 +8,13 @@ Check the most famous repositories from each language on the main page. Do you w
 
 ## How to use
 
-'''
+''''
 Download the repository
 CD inside the folder
 npm install
 npm run start
 Server is running on port 8080
-'''
+''''
 
 
 ## Technologies used
